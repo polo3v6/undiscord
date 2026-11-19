@@ -8,7 +8,6 @@
     
 1. Install Undiscord:  
   [![][greasyfork_icon]][greasyfork_url] 
-(NOTE: GreasyFork is recommended for now, OpenUserJS is not receiving updates)
 
 1. Open <a href="https://discord.com/channels/@me" target="_blank">Discord</a> in your __browser__ (Not the App) and go to the channel or direct message you would like to be wiped.
 
@@ -28,7 +27,7 @@ If you believe you found a bug please file an [issue](https://github.com/polo3v6
 
 ----
 
-Originally from https://gist.github.com/victornpb/135f5b346dea4decfc8f63ad7d9cc182
+Originally from https://github.com/victornpb/undiscord
 
 ----
 ## ⛔️ DO NOT SHARE YOUR AUTH TOKEN! ⛔️ ##
