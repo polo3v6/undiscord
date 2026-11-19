@@ -11,15 +11,15 @@ https://github.com/user-attachments/assets/a64c5380-7a21-43db-9fa6-fc2206c90388
 1. First you need a Browser Extension for managing UserScripts[[1]][userscrips_faq] (skip if you already have one): '
    * Brave: [Tampermonkey][chrome_tampermonkey] 
     
-1. Install Undiscord: [Install][tampermonkey_url]
+2. Install Undiscord: [Click to Install][tampermonkey_url]
 
-1. Open <a href="https://discord.com/channels/@me" target="_blank">Discord</a> in your __browser__ (Not the App) and go to the channel or direct message you would like to be wiped.
+3. Open <a href="https://discord.com/channels/@me" target="_blank">Discord</a> in your __browser__ (Not the App) and go to the channel or direct message you would like to be wiped.
 
-1. Click the <kbd>🗑️</kbd> button that was added to the middle left side.
+4. Click the <kbd>🗑️</kbd> button that was added to the middle left side.
 
-1. Click on the buttons near **Author ID** and **Server ID** and **Channel ID**.  
+5. Click on the buttons near **Author ID** and **Server ID** and **Channel ID**.  
 
-1. Click the ![Delete](https://user-images.githubusercontent.com/3372598/223744853-c0d4d9e3-1914-486b-bb4f-f27e40d0e3e7.png) button to begin wipping! 
+6. Click the ![Delete](https://user-images.githubusercontent.com/3372598/223744853-c0d4d9e3-1914-486b-bb4f-f27e40d0e3e7.png) button to begin wipping! 
 
 
 ----
