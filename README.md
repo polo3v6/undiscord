@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/a64c5380-7a21-43db-9fa6-fc2206c90388
+
 # Undiscord - Delete all messages in a Discord channel or DM
 
 > ⚠️ **Any tool that automates actions on user accounts, including this one, could result in account termination.** (see [self-bots][self-bots]).  
