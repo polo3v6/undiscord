@@ -1,10 +1,10 @@
 # Undiscord - Delete all messages in a Discord channel or DM
 
 > ⚠️ **Any tool that automates actions on user accounts, including this one, could result in account termination.** (see [self-bots][self-bots]).  
-> Use at your own risk! ([discussion](https://github.com/victornpb/undiscord/discussions/273)).
+> Use at your own risk!
 
 1. First you need a Browser Extension for managing UserScripts[[1]][userscrips_faq] (skip if you already have one): '
-   * Brave: [Violentmonkey][chrome_violentmonkey] 
+   * Brave: [Tampermonkey][chrome_tampermonkey] 
     
 1. Install Undiscord:  
   [![][greasyfork_icon]][greasyfork_url] 
@@ -44,8 +44,6 @@ If you are unsure do not post screenshots, or logs on the internet.
 
 Using third-party scripts means you trust that the script’s developer hasn’t inserted malicious functionality into the code and has secured it against attackers trying to do the same. You should never run code you don't trust.
 
-Please read: [what I'm doing to ensure this is safe for users][security_policy].
-
 ----
 #### DISCLAIMER
 
@@ -55,31 +53,9 @@ Please read: [what I'm doing to ensure this is safe for users][security_policy].
 
 
 
-
-<!-- links -->
-  [self-bots]: https://support.discordapp.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-
-  [userscrips_faq]: https://en.wikipedia.org/wiki/Userscript
-  [greasyfork_icon]: https://user-images.githubusercontent.com/3372598/166113712-1bc3d654-1342-4f1e-9845-21c3b21524b1.png
-  [openuserjs_icon]: https://user-images.githubusercontent.com/3372598/166113714-5a2ede39-8d66-43a8-b5da-8f1897cb3121.png
-  [greasyfork_moderation]: https://greasyfork.org/en/moderator_actions
-
-  [issues]: https://github.com/victornpb/undiscord/issues
-  [issues_open]: https://github.com/victornpb/undiscord/issues
-  [issues_closed]: https://github.com/victornpb/undiscord/issues
-  [prs]: https://github.com/victornpb/undiscord/pulls
-  [pr_open]: https://github.com/victornpb/undiscord/pulls
-  [prs_closed]: https://github.com/victornpb/undiscord/pulls
-  [forks]: https://github.com/victornpb/undiscord/network/members
-
-  [wiki]: https://github.com/victornpb/undiscord/wiki
-  [discussions]: https://github.com/victornpb/undiscord/discussions
-  [ideas]: https://github.com/victornpb/undiscord/discussions/categories/2-ideas
-  [questions]: https://github.com/victornpb/undiscord/discussions/categories/1-questions-answers
-  [security_policy]: https://github.com/victornpb/undiscord/wiki/Security-Policy
-
 <!-- Extensions -->
   [chrome_tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 <!-- Download links -->
-
+  [greasyfork_url]: https://google.com/ 
   [brave_browser]: https://brave.com/download/
