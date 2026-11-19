@@ -78,18 +78,8 @@ Please read: [what I'm doing to ensure this is safe for users][security_policy].
   [security_policy]: https://github.com/victornpb/undiscord/wiki/Security-Policy
 
 <!-- Extensions -->
-  [chrome_violentmonkey]: https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag
   [chrome_tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-  [firefox_greasemonkey]: https://addons.mozilla.org/firefox/addon/greasemonkey/
-  [firefox_tampermonkey]: https://addons.mozilla.org/firefox/addon/tampermonkey/
-  [firefox_violentmonkey]: https://addons.mozilla.org/firefox/addon/violentmonkey/
-  [safari_tampermonkey]: https://github.com/victornpb/undiscord/issues/91#issuecomment-654514364
-  [edge_tampermonkey]: https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
-  [opera_tampermonkey]: https://addons.opera.com/extensions/details/tampermonkey-beta/
-  [opera_violentmonkey]: https://addons.opera.com/extensions/details/violent-monkey/
 
 <!-- Download links -->
-  [greasyfork_url]: <https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion> "Get Undiscord from GreasyFork"
-  [openuserjs_url]: <https://openuserjs.org/scripts/victornpb/Undiscord_-_Delete_all_messages_in_a_Discord_channel_or_DM_(Bulk_deletion)> "Get Undiscord from OpenUserJS"
 
   [brave_browser]: https://brave.com/download/
