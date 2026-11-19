@@ -11,8 +11,7 @@ https://github.com/user-attachments/assets/a64c5380-7a21-43db-9fa6-fc2206c90388
 1. First you need a Browser Extension for managing UserScripts[[1]][userscrips_faq] (skip if you already have one): '
    * Brave: [Tampermonkey][chrome_tampermonkey] 
     
-1. Install Undiscord:  
-  [![][greasyfork_icon]][greasyfork_url] 
+1. Install Undiscord: [Install][tampermonkey_url]
 
 1. Open <a href="https://discord.com/channels/@me" target="_blank">Discord</a> in your __browser__ (Not the App) and go to the channel or direct message you would like to be wiped.
 
@@ -60,7 +59,6 @@ Using third-party scripts means you trust that the script’s developer hasn’t
 <!-- links -->
   [chrome_tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
   [userscrips_faq]: https://en.wikipedia.org/wiki/Userscript
-  [greasyfork_url]: https://google.com/ 
+  [tampermonkey_url]: https://github.com/polo3v6/undiscord/raw/refs/heads/main/undiscord.user.js 
   [brave_browser]: https://brave.com/download/
   [self-bots]: https://support.discordapp.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-
-  [greasyfork_icon]: https://user-images.githubusercontent.com/3372598/166113712-1bc3d654-1342-4f1e-9845-21c3b21524b1.png
