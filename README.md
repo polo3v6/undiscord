@@ -53,9 +53,9 @@ Using third-party scripts means you trust that the script’s developer hasn’t
 
 
 
-<!-- Extensions -->
+<!-- links -->
   [chrome_tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-
-<!-- Download links -->
+  [userscrips_faq]: https://en.wikipedia.org/wiki/Userscript
   [greasyfork_url]: https://google.com/ 
   [brave_browser]: https://brave.com/download/
+  [self-bots]: https://support.discordapp.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-
