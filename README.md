@@ -12,35 +12,18 @@
 
 1. Open <a href="https://discord.com/channels/@me" target="_blank">Discord</a> in your __browser__ (Not the App) and go to the channel or direct message you would like to be wiped.
 
-1. Click the <kbd>🗑️</kbd> button that was added in the top right corner.
+1. Click the <kbd>🗑️</kbd> button that was added to the middle left side.
 
 1. Click on the buttons near **Author ID** and **Server ID** and **Channel ID**.  
 
 1. Click the ![Delete](https://user-images.githubusercontent.com/3372598/223744853-c0d4d9e3-1914-486b-bb4f-f27e40d0e3e7.png) button to begin wipping! 
 
 
-![Screenshot](https://user-images.githubusercontent.com/3372598/222977831-88eeb59a-186a-4947-8e33-0ac245c3af5c.gif)
-
-I made this tool just for you ❤️ , it would be awesome if you could just click the [⭐️ Star button](https://github.com/victornpb/undiscord) at the top!
-
-> A few extra generous people asked for this, so here you can [buy me a coffee](https://www.buymeacoffee.com/vitim). Thank you! You'll be in my special list ^_^
-
 ----
-### Need help?
-Check out the [wiki](https://github.com/victornpb/undiscord/wiki) for helpful articles, or read existing [questions](https://github.com/victornpb/undiscord/discussions), or post a new one.
-
-### Have an Idea or Feature request?
-Check out the [Ideas][ideas] section, if your idea _hasn't been posted before_, please post a new one.
-
 ### Found a bug?
 Is prefered that _issues_ follow a certain format. If you're not familiar with bug reports, please use the [discussions][discussions] tab instead.
 
-If you believe you found a bug please file an [issue](https://github.com/victornpb/undiscord/issues), but please fill the issue template.
-
-If you are looking to contribute please read the [CONTRIBUTING](./CONTRIBUTING.md) first.
-
-### Copy paste version
-Looking for the old Copy/Paste version? [here](https://github.com/victornpb/undiscord/wiki/Copy-paste-method)
+If you believe you found a bug please file an [issue](https://github.com/polo3v6/undiscord/issues), but please fill the issue template.
 
 
 ----
